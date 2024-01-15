@@ -78,23 +78,23 @@ npm run dev
 
 ##### 2 页面展示
 
-![image-20240115160720173](.\assets\image-20240115160720173.png)
+![image-20240115160720173.png (1995×1018) (raw.githubusercontent.com)](https://raw.githubusercontent.com/Patrickming/StudentManagerSys-Vue/main/assets/image-20240115160720173.png)
 
 ###### 管理员
 
-![image-20240115155632661](.\assets\image-20240115155846971.png)
+![image-20240115155846971.png (2548×1304) (raw.githubusercontent.com)](https://raw.githubusercontent.com/Patrickming/StudentManagerSys-Vue/main/assets/image-20240115155846971.png)
 
-![image-20240115160011529](.\assets\image-20240115160011529.png)
+![image-20240115160011529.png (2540×1183) (raw.githubusercontent.com)](https://raw.githubusercontent.com/Patrickming/StudentManagerSys-Vue/main/assets/image-20240115160011529.png)
 
-![image-20240115160415597](.\assets\image-20240115160415597.png)
+![image-20240115160415597.png (2554×1137) (raw.githubusercontent.com)](https://raw.githubusercontent.com/Patrickming/StudentManagerSys-Vue/main/assets/image-20240115160415597.png)
 
 ###### 教师
 
-![image-20240115160529178](.\assets\image-20240115160529178.png)
+![image-20240115160529178.png (2560×1161) (raw.githubusercontent.com)](https://raw.githubusercontent.com/Patrickming/StudentManagerSys-Vue/main/assets/image-20240115160529178.png)
 
 ###### 学生
 
-![image-20240115160756611](.\assets\image-20240115160756611.png)
+![image-20240115160756611.png (2539×1095) (raw.githubusercontent.com)](https://raw.githubusercontent.com/Patrickming/StudentManagerSys-Vue/main/assets/image-20240115160756611.png)
 
 
 
