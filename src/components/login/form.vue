@@ -385,10 +385,10 @@ export default {
 /*}*/
 </style>
 <style scoped>
-/deep/ .form {
+ .form {
     margin-right: 20px;
 }
-/deep/ .loginMain {
+.loginMain {
     color: white;
     font-size: 18px;
     width: 200px;
@@ -419,7 +419,7 @@ export default {
     opacity: 1;
     right: 0;
 }
-/deep/ .el-tabs {
+ .el-tabs {
     border-radius: 8px !important;
 }
 .deleteCook {
