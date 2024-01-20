@@ -7,7 +7,7 @@ import axios from 'axios';
 import { Message } from 'element-ui';
 
 axios.defaults.timeout = 50000; //超时终止请求
-axios.defaults.baseURL ='http://localhost:9121/'; //配置请求地址
+axios.defaults.baseURL ='http://localhost:8080/'; //配置请求地址
 
 
 axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';

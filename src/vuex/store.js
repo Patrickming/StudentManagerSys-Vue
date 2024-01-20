@@ -12,7 +12,7 @@ Vue.use(Vuex);
 
 // 状态
 const state = {
-  baseApi: "http://localhost:9121/",
+  baseApi: "http://localhost:8080/",
   collapse: {},
   userInfo: JSON.parse(localStorage.getItem('userInfo')),
 };

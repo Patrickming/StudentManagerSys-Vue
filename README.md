@@ -22,8 +22,13 @@ npm i
 2. 修改端口
 
 ./config/index.js
-
+\axios\axiosHelper.js
+src\vuex\store.js
+修改成对应的端口
 ```js
+host: 'localhost', 
+port: 8081, 
+
 module.exports = {
   dev: {
 
@@ -32,7 +37,7 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       '/api': {
-        target: 'http://localhost:9121/', //接口域名
+        target: 'http://localhost:8080/', //接口域名
         // secure: false,
         changeOrigin: true, // 如果接口跨域，需要进行这个参数配置
         pathRewrite: {
@@ -40,12 +45,21 @@ module.exports = {
         }
       }
     }
+
+axios.defaults.baseURL ='http://localhost:8080/'; //配置请求地址
+
+const state = {
+  baseApi: "http://localhost:8080/",
+  collapse: {},
+  userInfo: JSON.parse(localStorage.getItem('userInfo')),
+};
 ```
 
 3. 运行项目
 
 ```bash
 npm run dev
+npm run start
 ```
 
 
